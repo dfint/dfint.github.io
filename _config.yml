@@ -6,6 +6,5 @@ google_analytics:
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
+  is_project_page: "true"
   repository_url: https://github.com/dfint
-
-
