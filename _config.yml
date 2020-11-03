@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Dwarf Fortress Localization Project
-description: A short description of your site's purpose
-show_downloads: "true"
+description:
+show_downloads: "false"
 google_analytics:
 github:
   zip_url: http://example.com/download.zip
