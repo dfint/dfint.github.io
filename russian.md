@@ -1,4 +1,4 @@
-## Проект русификации игры [Dwarf Fortress](http://bay12games.com/dwarves/)
+## Проект русификации игры Dwarf Fortress
 
 ### **Сборка DF 0.42.06 под Windows** (обновлено 21.03.2016)
 
@@ -39,6 +39,7 @@
 
 ### Ссылки
 
+- [Официальный сайт Dwarf Fortress](http://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 - [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
 - [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
 - [Проект на github](https://github.com/dfint)
