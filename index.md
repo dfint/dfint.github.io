@@ -1,19 +1,17 @@
-## Проект русификации / интернационализации игры [Dwarf Fortress](http://bay12games.com/dwarves/)
+## Проект русификации игры [Dwarf Fortress](http://bay12games.com/dwarves/)
 
 ### **Сборка DF 0.42.06 под Windows** (обновлено 21.03.2016)
 
-- [Сборка](https://bitbucket.org/insolor/dfrus/downloads/PeridexisErrant's Starter Pack 0.42.06-r02-ru21.03.2016.7z) на основе PeridexisErrant's Starter Pack 0.42.06-r02
+- [Сборка](https://bitbucket.org/dfint/downloads/downloads/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z) на основе PeridexisErrant's Starter Pack 0.42.06-r02
   - Ввод кириллицы пока не работает
   - Требуется тестирование
   - Вырезаны утилиты из папки LNP/utilities. Если вам оттуда что-то нужно, скачайте оригинальную сборку **[PeridexisErrant's Starter Pack 0.42.06-r02](http://dffd.bay12games.com/file.php?id=11309)** и скопируйте из нее.
   - dfhack в сборку входит, но не тестировался
   - Добавлены два графических пакета: [Taffer's Tileset](http://www.bay12forums.com/smf/index.php?topic=107924.0) и [burnedfx Graphic Set](http://www.bay12forums.com/smf/index.php?topic=143588.0)
 
-- Предыдущая версия сборки: **[Сборка от 16.03.2016](https://bitbucket.org/insolor/dfrus/downloads/PeridexisErrant's Starter Pack 0.42.06-r02-ru16.03.2016.7z)**
-
 ### **Сборка DF 0.42.01 под Linux**
 
-- **[Тестовая сборка DF 0.42.01](https://bitbucket.org/insolor/dfrus/downloads/df_linux_sborka_42_01.tar.gz)**
+- **[Тестовая сборка DF 0.42.01](https://bitbucket.org/dfint/downloads/downloads/df_linux_sborka_42_01.tar.gz)**
 
 ### Cборка DF 0.40.24 под Windows
 
@@ -29,7 +27,7 @@
 
 ### Тестовая сборка DF 0.40.24 под **Linux**
 
-- [DF_0.40.24_rus.tgz](https://bitbucket.org/insolor/dfrus/downloads/DF_0.40.24_rus.tgz)
+- [DF_0.40.24_rus.tgz](https://bitbucket.org/dfint/downloads/downloads/DF_0.40.24_rus.tgz)
   - Должен быть установлен Python 3.4. Под 64-битной системой - libpython3.4:i386.
   - Не везде сделан перевод
   - Пока не работает поиск в менеджере
@@ -49,4 +47,4 @@
 
 - [Русификация DwarfTherapist](http://forum.dfwk.ru/index.php/topic,1201.0.html) - тема по русификации утилиты Dwarf Therapist на forum.dfwk.ru. Более-менее свежие ссылки добавляются в первое сообщение темы.
 - [Добавление поддержки русского языка в утилиту Soundsense](https://bitbucket.org/Skin36/sounsenserus/wiki/Home)
-- https://vk.com/urwrus - тема по переводу игры [UnReal World RPG](https://bitbucket.org/insolor/dfrus/wiki/unrealworld.fi). При русификации используются утилиты из репозитория [dfrus-py](https://github.com/dfint/dfrus-py).
+- https://vk.com/urwrus - тема по переводу игры [UnReal World RPG](https://bitbucket.org/insolor/dfrus/wiki/unrealworld.fi). При русификации используются утилиты из репозитория [dfrus](https://github.com/dfint/dfrus).
