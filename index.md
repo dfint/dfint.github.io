@@ -47,4 +47,4 @@
 
 - [Русификация DwarfTherapist](http://forum.dfwk.ru/index.php/topic,1201.0.html) - тема по русификации утилиты Dwarf Therapist на forum.dfwk.ru. Более-менее свежие ссылки добавляются в первое сообщение темы.
 - [Добавление поддержки русского языка в утилиту Soundsense](https://bitbucket.org/Skin36/sounsenserus/wiki/Home)
-- https://vk.com/urwrus - тема по переводу игры [UnReal World RPG](https://bitbucket.org/insolor/dfrus/wiki/unrealworld.fi). При русификации используются утилиты из репозитория [dfrus](https://github.com/dfint/dfrus).
+- [vk.com/urwrus](https://vk.com/urwrus) - группа по переводу игры [UnReal World RPG](https://bitbucket.org/insolor/dfrus/wiki/unrealworld.fi). При русификации используются утилиты из репозитория [dfrus](https://github.com/dfint/dfrus).
