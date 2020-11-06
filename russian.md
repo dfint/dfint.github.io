@@ -5,7 +5,7 @@
 - [**Сборка на основе PeridexisErrant's Starter Pack 0.42.06-r02**](https://bitbucket.org/dfint/downloads/downloads/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z)
   - Ввод кириллицы пока не работает
   - Требуется тестирование
-  - Вырезаны утилиты из папки LNP/utilities. Если вам оттуда что-то нужно, скачайте оригинальную сборку [PeridexisErrant's Starter Pack 0.42.06-r02](http://dffd.bay12games.com/file.php?id=11309) и скопируйте из нее.
+  - Вырезаны утилиты из папки LNP/utilities
   - dfhack в сборку входит, но не тестировался
   - Добавлены два графических пакета: [Taffer's Tileset](http://www.bay12forums.com/smf/index.php?topic=107924.0) и [burnedfx Graphic Set](http://www.bay12forums.com/smf/index.php?topic=143588.0)
 
