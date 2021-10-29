@@ -1,6 +1,6 @@
 ---
 title: Dwarf Fortress localization project
-lang: en-US
+lang: "en-US"
 ---
 
 * [Проект русификации игры Dwarf Fortress](russian.md)
