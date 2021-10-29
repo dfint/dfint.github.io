@@ -3,8 +3,6 @@ title: Проект русификации игры Dwarf Fortress
 lang: ru-RU
 ---
 
-## Проект русификации игры Dwarf Fortress
-
 ### Сборка DF 0.42.06 под Windows (обновлено 21.03.2016)
 
 - [**Сборка на основе PeridexisErrant's Starter Pack 0.42.06-r02**](https://bitbucket.org/dfint/downloads/downloads/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z)
