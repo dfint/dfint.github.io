@@ -1,6 +1,6 @@
 ---
 title: Проект русификации игры Dwarf Fortress
-lang: "ru-RU"
+lang: ru-RU
 ---
 
 ## Проект русификации игры Dwarf Fortress
