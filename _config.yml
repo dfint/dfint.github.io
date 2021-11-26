@@ -10,3 +10,4 @@ github:
   another_url: another value
   is_project_page: "true"
   repository_url: https://github.com/dfint
+production_url: https://dfint.github.io
