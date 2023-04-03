@@ -42,21 +42,11 @@ lang: "ru-RU"
   - Должен быть установлен Python 3.4. Под 64-битной системой - libpython3.4:i386.
   - Не везде сделан перевод
   - Пока не работает поиск в менеджере
-  - Отчеты об ошибках по данной сборке присылать в [эту тему на VK.com](https://vk.com/topic-50714193_32083974) или в [тему по русификации на forum.dfwk.ru](http://forum.dfwk.ru/index.php?topic=204.msg40943#new)
-
-### Техническая информация
-
-- [Документация проекта (на английском, не закончено)](https://github.com/dfint/dfint-docs/wiki)
 
 ### Ссылки
 
+- [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - собственно, здесь ведется перевод
+- [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
-- [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
 - [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
-- [Проект на github](https://github.com/dfint)
-
-### Смежные проекты
-
-- [Русификация DwarfTherapist](http://forum.dfwk.ru/index.php/topic,1201.0.html) - тема по русификации утилиты Dwarf Therapist на forum.dfwk.ru. Более-менее свежие ссылки добавляются в первое сообщение темы.
-- [Добавление поддержки русского языка](https://github.com/dfint/soundsense-rus) в утилиту [Soundsense](http://dfwk.ru/SoundSense)
-- [vk.com/urwrus](https://vk.com/urwrus) - группа по переводу игры [UnReal World RPG](https://store.steampowered.com/app/351700/UnReal_World/). При русификации использовались утилиты из репозитория [dfrus](https://github.com/dfint/dfrus).
+- [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
