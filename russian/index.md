@@ -22,4 +22,4 @@ lang: "ru-RU"
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 - [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
 - [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
-- [Архив новостей (о версиях для DF более ранних версий)](archive.md)
+- [Архив новостей (о переводе DF более ранних версий)](archive.md)
