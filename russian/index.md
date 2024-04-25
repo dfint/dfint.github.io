@@ -8,7 +8,7 @@ lang: "ru-RU"
 Скачать установщик локализации (поддерживает версии DF от 50.10 и новее):
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)
-](https://github.com/dfint/installer)
+](https://github.com/dfint/installer/releases/latest)
 
 Краткая инструкция:
 - Скачать архив (win для windows, lin для linux), распаковать, запустить файл `dfint-installer` из папки `release`
