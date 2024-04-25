@@ -1,15 +1,7 @@
 ---
-title: Проект русификации игры Dwarf Fortress
+title: Проект русификации игры Dwarf Fortress (архивные новости)
 lang: "ru-RU"
 ---
-
-### Локализация для 50.* версий Dwarf Fortress
-
-Инструменты для применения перевода к игре в разработке, есть ранние версии патча:
-
-- **<https://boosty.to/dfrus>**
-
-Там же можно поддержать разработчиков донатами.
 
 ### Сборка DF 0.42.06 под Windows (обновлено 21.03.2016)
 
@@ -42,11 +34,3 @@ lang: "ru-RU"
   - Должен быть установлен Python 3.4. Под 64-битной системой - libpython3.4:i386.
   - Не везде сделан перевод
   - Пока не работает поиск в менеджере
-
-### Ссылки
-
-- [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - собственно, здесь ведется перевод
-- [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
-- [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
-- [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
-- [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
