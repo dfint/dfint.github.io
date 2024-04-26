@@ -25,7 +25,8 @@ lang: "ru-RU"
 - [Поддержать проект локализации донатом или регулярной платной подпиской](https://boosty.to/dfrus)
 - [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - здесь ведется перевод
 - [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
-- [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
+
 - [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
 - [Обсуждение перевода на forum.dfwk.ru](http://forum.dfwk.ru/index.php/topic,204.0.html)
+- [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
 - [Архив новостей (о переводе DF более ранних версий)](archive.md)
