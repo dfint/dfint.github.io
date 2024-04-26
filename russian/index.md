@@ -14,7 +14,7 @@ lang: "ru-RU"
 ](https://github.com/dfint/installer/releases/latest)
 
 Краткая инструкция:
-- Скачать архив (win для windows, lin для linux), распаковать, запустить файл `dfint-installer` из папки `release`
+- Скачать архив (кнопка перехода на страницу скачивания выше, win для windows, lin для linux), распаковать, запустить файл `dfint-installer` из папки `release`
 - Указать ("Открыть") исполняемый файл игры (Dwarf Fortress.exe или dwarfort)
 - Выбрать язык перевода, нажать "Обновить" ("Update")
 - Запустить игру
