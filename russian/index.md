@@ -1,6 +1,7 @@
 ---
 title: Проект русификации игры Dwarf Fortress
 lang: "ru-RU"
+redirect_from: /russian.html
 ---
 
 ### Локализация для 50.* и более новых версий Dwarf Fortress
