@@ -17,3 +17,4 @@ production_url: https://dfint.github.io
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
