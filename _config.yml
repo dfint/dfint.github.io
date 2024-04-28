@@ -8,8 +8,6 @@ yandex_verification: 8507648c14efec96
 google_site_verification: 0lZ2eOgznBEIVtkL95dRRJgNHxW8muvlKyJ0WveueZQ
 
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
   is_project_page: "true"
   repository_url: https://github.com/dfint
 
