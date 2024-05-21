@@ -3,4 +3,4 @@ title: Dwarf Fortress localization project
 lang: "en-US"
 ---
 
-* [Проект русификации игры Dwarf Fortress](russian)
+* [Перевод Dwarf Fortress на русский язык](russian)
