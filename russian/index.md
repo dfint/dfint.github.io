@@ -1,5 +1,5 @@
 ---
-title: Проект русификации игры Dwarf Fortress
+title: Перевод игры Dwarf Fortress на русский язык
 lang: "ru-RU"
 redirect_from: /russian.html
 ---
