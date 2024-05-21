@@ -3,7 +3,7 @@ title: Traducción al español de Dwarf Fortress
 lang: es
 ---
 
-### Localización para 50.* y versiones posteriores de Dwarf Fortress
+### Localización para la version 50.* (y posteriores) de Dwarf Fortress
 
 > Hay soporte para DF 51.01-beta14 (con Modo Aventura).
 
@@ -13,11 +13,11 @@ Descarga el instalador de localización (compatible con las versiones 50.10 y po
 ](https://github.com/dfint/installer/releases/latest)
 
 Instrucciones breves:
-- Descarga el archivo (botón de salto a la página de descargas anterior, win para windows, lin para linux), descomprímalo, ejecute el archivo `dfint-installer`
-- Especifica ("Abrir") el archivo ejecutable del juego (`Dwarf Fortress.exe` o `dwarfort`). Puedes poner el archivo `dfint-installer` en la carpeta del juego, así no tendrás que especificar la ruta al archivo ejecutable cuando lo ejecutes por primera vez.
+- Descargar el archivo (página de descargas en el enlace de arriba, "win" para windows, "lin" para linux), descomprímalo, ejecute el archivo `dfint-installer`
+- Seleccionar ("Open") el archivo ejecutable del juego (`Dwarf Fortress.exe` o `dwarfort`). Puedes poner el archivo `dfint-installer` en la carpeta del juego, así no sera necesario especificar la ruta al archivo ejecutable cuando lo ejecutes por primera vez.
 - Selecciona el idioma de traducción, haz clic en "Actualizar" ("Update").
 - Inicia el juego
-- Para actualizar la traducción/configuración para versiones más recientes del juego tienes que ejecutar de nuevo el instalador (con el juego cerrado), hacer clic en "Actualizar".
+- Para actualizar la traducción/configuración para versiones más recientes del juego tienes que ejecutar de nuevo el instalador (con el juego cerrado), hacer clic en "Update".
 
 ### Enlaces
 
