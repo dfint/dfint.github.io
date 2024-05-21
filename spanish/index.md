@@ -25,3 +25,4 @@ Instrucciones breves:
 - [Proyecto en github](https://github.com/dfint) - aquí se están desarrollando las herramientas de localización.
 
 - [Sitio oficial de Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
+- [Discusión en Discord](https://discord.gg/YBecbmYC)
