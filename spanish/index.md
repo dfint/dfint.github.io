@@ -1,5 +1,6 @@
 ---
 title: Traducción al español de Dwarf Fortress
+descripion: Traducción al español de Dwarf Fortress
 lang: es
 ---
 
