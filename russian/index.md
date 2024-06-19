@@ -6,7 +6,7 @@ redirect_from: /russian.html
 
 ### Локализация для 50.* и более новых версий Dwarf Fortress
 
-> Есть поддержка DF 51.01-beta14 (с Adventure Mode)
+> Есть поддержка DF 51.01-beta14 и beta15 (с Adventure Mode)
 
 Скачать установщик локализации (поддерживает версии DF от 50.10 и новее):
 
