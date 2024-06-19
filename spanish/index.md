@@ -6,7 +6,7 @@ lang: es
 
 ### Localización para la version 50.* (y posteriores) de Dwarf Fortress
 
-> Hay soporte para DF 51.01-beta14 (con Modo Aventura).
+> Hay soporte para DF 51.01-beta14 y beta15 (con Modo Aventura).
 
 Descarga el instalador de localización (compatible con las versiones 50.10 y posteriores de DF):
 
