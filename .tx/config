@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[o:dwarf-fortress-translation:p:dfint-github-io:r:index-md]
+file_filter = <lang>/index.md
+source_file = _template/index.md
+source_lang = en
+type        = GITHUBMARKDOWN

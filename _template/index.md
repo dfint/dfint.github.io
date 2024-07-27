@@ -1,6 +1,6 @@
 ---
-title: "Translation of Dwarf Fortress to <your language>"
-description: "Translation of Dwarf Fortress to <your language>"
+title: "Translation of Dwarf Fortress to 'your language'"
+description: "Translation of Dwarf Fortress to 'your language'"
 lang: "en" # replace it with your language code
 ---
 
@@ -25,5 +25,5 @@ If you have some troubles with the installer (e.g. you are useing Windows 7 or 8
 ### Links
 
 - [Translation project on transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
-- [The project on github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
+- [The project on github](https://github.com/dfint) - this is a place where we develop tools for the localization
 - [The official Dwarf Fortress site](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
