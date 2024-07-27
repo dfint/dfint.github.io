@@ -2,6 +2,7 @@
 title: Перевод игры Dwarf Fortress на русский язык
 lang: "ru-RU"
 redirect_from: /russian.html
+additional_links: true
 ---
 
 ### Локализация для 50.* и более новых версий Dwarf Fortress
@@ -26,5 +27,4 @@ redirect_from: /russian.html
 - [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 - [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-
-{% include_relative additional_links.md %}
+{%- if page.additional_links %}{%- include_relative additional_links.md %}{%- endif %}
