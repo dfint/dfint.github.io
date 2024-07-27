@@ -2,7 +2,7 @@
 title: Перевод игры Dwarf Fortress на русский язык
 lang: "ru-RU"
 redirect_from: /russian.html
-additional_links: true
+additional_links: false
 ---
 
 ### Локализация для 50.* и более новых версий Dwarf Fortress
