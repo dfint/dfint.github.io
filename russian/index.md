@@ -27,4 +27,4 @@ redirect_from: /russian.html
 - [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
 
-{% include_relative test_footer.md %}
+{% include_relative additional_links.md %}
