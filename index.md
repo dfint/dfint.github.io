@@ -3,7 +3,7 @@ title: Dwarf Fortress localization project
 lang: "en-US"
 ---
 
+- [Italian](it)
 - [Russian](russian)
 - [Spanish](spanish)
-- [Italian](it)
 - [Ukrainian](uk)
