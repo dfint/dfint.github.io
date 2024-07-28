@@ -29,4 +29,5 @@ If you have some troubles with the installer (e.g. you are useing Windows 7 or 8
 - [Translation project on transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 - [The project on github](https://github.com/dfint) - this is a place where we develop tools for the localization
 - [The official Dwarf Fortress site](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
+
 {%- if page.additional_links %}{%- include_relative additional_links.md %}{%- endif %}
