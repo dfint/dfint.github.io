@@ -2,7 +2,6 @@
 title: Перевод игры Dwarf Fortress на русский язык
 lang: "ru-RU"
 permalink: /russian/
-redirect_from: /russian.html
 additional_links: true
 ---
 
