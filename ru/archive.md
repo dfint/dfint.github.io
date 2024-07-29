@@ -1,6 +1,7 @@
 ---
 title: Проект русификации игры Dwarf Fortress (архивные новости)
 lang: "ru-RU"
+permalink: /russian/archive
 ---
 
 ### Сборка DF 0.42.06 под Windows (обновлено 21.03.2016)
