@@ -29,4 +29,4 @@ Se riscontri problemi con il programma d'installazione (ad esempio se utilizzi W
 - [Progetto di traduzione su transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 - [Il progetto su github](https://github.com/dfint)
 - [Il sito ufficiale di Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{%- if page.additional_links %}{%- include_relative additional_links.md %}{%- endif %}
+{%- if page.additional_links %}{%- include_relative _additional_links.md %}{%- endif %}

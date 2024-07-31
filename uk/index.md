@@ -29,4 +29,4 @@ additional_links: false
 - [Проєкт перекладу на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 - [Проєкт на github](https://github.com/dfint) - це місце, де ми розробляємо інструменти для локалізації
 - [Офіційний сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{%- if page.additional_links %}{%- include_relative additional_links.md %}{%- endif %}
+{%- if page.additional_links %}{%- include_relative _additional_links.md %}{%- endif %}
