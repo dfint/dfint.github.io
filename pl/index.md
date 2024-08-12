@@ -29,4 +29,4 @@ Jeżeli masz jakieś problemy z użyciem instalatora (np. używasz Windows 7 lub
 - [Projekt tłumaczenia na transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 - [Projekt na github'ie](https://github.com/dfint) - to jest miejsce, gdzie tworzymy narzędzia do lokalizacji
 - [Oficjalna strona Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{%- if page.additional_links %}{%- include_relative additional_links.md %}{%- endif %}
+{%- if page.additional_links %}{%- include_relative _additional_links.md %}{%- endif %}
