@@ -2,7 +2,7 @@
 title: "Tłumaczenie Dwarf Fortress na język polski"
 description: "Tłumaczenie Dwarf Fortress na język polski"
 lang: "pl-PL"
-permalink: /polish/
+permalink: /pl/
 additional_links: true
 ---
 
