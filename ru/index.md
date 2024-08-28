@@ -26,7 +26,7 @@ additional_links: true
 
 ### Ссылки
 
-- [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
+- [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - здесь вы можете принять участие в доработке перевода игры на русский язык
 - [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
 {% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
