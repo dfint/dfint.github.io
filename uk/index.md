@@ -6,7 +6,7 @@ permalink: /uk/
 additional_links: false
 ---
 
-### Локалізація для 50.* і новіших версій Dwarf Fortress
+### Українізатор для 50.* і новіших версій Dwarf Fortress
 
 > Є підтримка бета-версій DF 51.01 (з режимом пригод)
 

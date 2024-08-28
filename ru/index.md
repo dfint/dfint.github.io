@@ -6,7 +6,7 @@ permalink: /russian/
 additional_links: true
 ---
 
-### Локализация для 50.* и более новых версий Dwarf Fortress
+### Русификатор для 50.* и более новых версий Dwarf Fortress
 
 > Есть поддержка бета-версий DF 51.01 (с Adventure Mode)
 
