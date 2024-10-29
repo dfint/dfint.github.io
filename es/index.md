@@ -26,7 +26,7 @@ Si tiene problemas con el instalador (por ejemplo, si utiliza Windows 7 u 8), pu
 
 ### Enlaces
 
-- [Proyecto de traducción en transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
+- [Proyecto de traducción en transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - aquí puedes participar en la traducción del juego a tu idioma.
 - [Proyecto en github](https://github.com/dfint) - aquí se están desarrollando las herramientas de localización.
 - [Sitio oficial de Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
 {% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
