@@ -14,7 +14,7 @@ additional_links: true
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
 
-Краткая инструкция:
+Краткая инструкция по установке перевода:
 
 - Скачайте архив (кнопка перехода на страницу скачивания выше, `win` для windows, `lin` для linux), распаковать, запустить файл `dfint-installer`.
 - Выберите ("Откройте") исполняемый файл игры (`Dwarf Fortress.exe` или `dwarfort`). Можно положить файл `dfint-installer` в папку игры, тогда не нужно будет при первом запуске указывать путь к исполняемому файлу.

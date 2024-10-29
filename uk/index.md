@@ -14,7 +14,7 @@ additional_links: false
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
 
-Інструкція:
+Коротка інструкція по установці перекладу:
 
 - Завантажте пакет (натисніть кнопку вище, завантажте пакет `win` для windows або `lin` для linux), розпакуйте його, запустіть файл `dfint-installer`.
 - Виберіть («Відкрийте») виконуваний файл гри (`Dwarf Fortress.exe` або `dwarfort`). Також ви можете помістити файл `dfint-installer` у каталог гри, тоді він сам знайде виконуваний файл гри.
@@ -29,4 +29,4 @@ additional_links: false
 - [Проєкт перекладу на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - тут ви можете долучитись до перекладу Dwarf Fortress на українську мову
 - [Проєкт на github](https://github.com/dfint) - це місце, де ми розробляємо інструменти для локалізації
 - [Офіційний сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{% if page.additional_links %}{% include_relative additional_links.md %}{% endif %}
+{% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
