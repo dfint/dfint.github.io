@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pypi-index/
+
+Sitemap: https://dfint.github.io/sitemap.xml
