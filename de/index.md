@@ -1,8 +1,8 @@
 ---
 title: "Übersetzung von Dwarf Fortress in 'Ihre Sprache'"
 description: "Übersetzung von Dwarf Fortress in 'Ihre Sprache'"
-lang: "en" # replace it with your language code
-permalink: /en/
+lang: "de" # replace it with your language code
+permalink: /de/
 additional_links: false
 ---
 
