@@ -12,7 +12,7 @@ additional_links: true
 
 Pobierz instalator lokalizacji (wspiera wersje DF 50.10 i nowsze)
 
-[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
 Krótka instrukcja:
 

@@ -12,7 +12,7 @@ additional_links: false
 
 Scarica il programma d'installazione della localizzazione (supporta la versione di DF 50.10 e successive):
 
-[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
 Brevi istruzioni:
 

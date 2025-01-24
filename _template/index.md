@@ -10,7 +10,7 @@ additional_links: false
 
 Download the localization installer (supports version of DF 50.10 and newer, including 51 versions):
 
-[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
 Brief instructions on how to install the translation:
 

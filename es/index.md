@@ -12,7 +12,7 @@ additional_links: true
 
 Descarga el instalador de localización (compatible con las versiones 50.10 y posteriores de DF):
 
-[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
 Instrucciones breves:
 

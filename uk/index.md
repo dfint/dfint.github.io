@@ -10,7 +10,7 @@ additional_links: false
 
 Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 версії):
 
-[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
 Коротка інструкція по установці перекладу:
 
