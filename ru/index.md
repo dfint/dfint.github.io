@@ -8,9 +8,7 @@ additional_links: true
 
 ### Русификатор для 50.* и более новых версий Dwarf Fortress
 
-> Есть поддержка бета-версий DF 51.01 (с Adventure Mode)
-
-Скачать установщик локализации (поддерживает версии DF от 50.10 и новее):
+Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 версии):
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
 

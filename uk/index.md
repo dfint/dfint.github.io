@@ -8,9 +8,7 @@ additional_links: false
 
 ### Українізатор для 50.* і новіших версій Dwarf Fortress
 
-> Є підтримка бета-версій DF 51.01 (з режимом пригод)
-
-Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії):
+Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 версії):
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
 
