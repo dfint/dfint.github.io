@@ -8,9 +8,7 @@ additional_links: false
 
 ### Localization for 50.* and newer versions of Dwarf Fortress
 
-> There is a support of DF 51.01 betas (with Adventure Mode)
-
-Download the localization installer (supports version of DF 50.10 and newer):
+Download the localization installer (supports version of DF 50.10 and newer, including 51 versions):
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)](https://github.com/dfint/installer/releases/latest)
 
