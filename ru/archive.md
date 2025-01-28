@@ -4,6 +4,11 @@ lang: "ru-RU"
 permalink: /russian/archive
 ---
 
+### Сборки DF 0.47.04 классической от 15.07.2020
+
+- [df_47_04_win32_s_ru_2020_07_15.zip](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/df_47_04_win32_s_ru_2020_07_15.zip)
+- [df_47_04_win_s_ru_2020_07_15.zip](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/df_47_04_win_s_ru_2020_07_15.zip)
+
 ### Сборка DF 0.42.06 под Windows (обновлено 21.03.2016)
 
 - [**Сборка на основе PeridexisErrant's Starter Pack 0.42.06-r02**](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z)
