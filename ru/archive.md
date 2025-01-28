@@ -6,7 +6,7 @@ permalink: /russian/archive
 
 ### Сборка DF 0.42.06 под Windows (обновлено 21.03.2016)
 
-- [**Сборка на основе PeridexisErrant's Starter Pack 0.42.06-r02**](https://bitbucket.org/dfint/downloads/downloads/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z)
+- [**Сборка на основе PeridexisErrant's Starter Pack 0.42.06-r02**](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/PeridexisErrants_Starter_Pack_0.42.06-r02-ru21.03.2016.7z)
   - Ввод кириллицы пока не работает
   - Требуется тестирование
   - Вырезаны утилиты из папки LNP/utilities
@@ -15,7 +15,7 @@ permalink: /russian/archive
 
 ### Сборка DF 0.42.01 под Linux
 
-- **[Тестовая сборка DF 0.42.01](https://bitbucket.org/dfint/downloads/downloads/df_linux_sborka_42_01.tar.gz)**
+- **[Тестовая сборка DF 0.42.01](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/df_linux_sborka_42_01.tar.gz)**
 
 ### Cборка DF 0.40.24 под Windows
 
@@ -31,7 +31,7 @@ permalink: /russian/archive
 
 ### Тестовая сборка DF 0.40.24 под Linux
 
-- [DF_0.40.24_rus.tgz](https://bitbucket.org/dfint/downloads/downloads/DF_0.40.24_rus.tgz)
+- [DF_0.40.24_rus.tgz](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/DF_0.40.24_rus.tgz)
   - Должен быть установлен Python 3.4. Под 64-битной системой - libpython3.4:i386.
   - Не везде сделан перевод
   - Пока не работает поиск в менеджере
