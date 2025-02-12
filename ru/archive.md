@@ -4,6 +4,10 @@ lang: "ru-RU"
 permalink: /russian/archive
 ---
 
+### Сборка DF 0.47.05 LNP Rus v1.5 от 13.06.2022
+
+- [DF.0.47.05.LNP.Rus.v1.5.zip](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/DF.0.47.05.LNP.Rus.v1.5.zip)
+
 ### Сборки DF 0.47.04 классической от 15.07.2020
 
 - [df_47_04_win32_s_ru_2020_07_15.zip](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/df_47_04_win32_s_ru_2020_07_15.zip)
