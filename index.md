@@ -7,6 +7,7 @@ lang: "en-US"
 - [German](de)
 - [Italian](it)
 - [Polish](pl)
+- [Portuguese (Brazil)](pt-BR)
 - [Russian](russian)
 - [Spanish](spanish)
 - [Ukrainian](uk)
