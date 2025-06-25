@@ -2,7 +2,7 @@
 title: "Tradução de Dwarf Fortress para Português do Brasil"
 description: "Tradução de Dwarf Fortress para Português do Brasil"
 lang: "pt-BR" # replace it with your language code
-permalink: /pt-BR/
+permalink: /pt-br/
 additional_links: false
 ---
 
