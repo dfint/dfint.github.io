@@ -29,4 +29,4 @@ Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 
 - [Übersetzungsprojekt auf Transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - hier können Sie an der Übersetzung des Spiels in Ihre Sprache teilnehmen.
 - [Das Projekt auf GitHub](https://github.com/dfint) - hier entwickeln wir Tools für die Lokalisierung
 - [Die offizielle Dwarf Fortress-Site](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{% if page.additional_links %}{% include_relative additional_links.md %}{% endif %}
+{% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
