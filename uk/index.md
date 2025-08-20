@@ -22,6 +22,8 @@ additional_links: false
 
 Якщо у вас виникли проблеми з інсталятором (наприклад, ви користуєтеся Windows 7 або 8), замість цього можна скористатися [package-builder](https://dfint-package-build.streamlit.app).
 
+![screenshot](screenshot.png)
+
 ### Посилання
 
 - [Проєкт перекладу на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - тут ви можете долучитись до перекладу Dwarf Fortress на українську мову
