@@ -22,7 +22,9 @@ Quelques instructions sur l'installation des traductions:
 - Exécuter le jeu
 - Pour mettre à jour la traduction ou la configuration pour une nouvelle version du jeu, relancez l'installateur (avec le jeu fermé), puis appuyez sur « Mettre à jour ».
 
-Si vous rencontrez des problèmes avec l'installateur (par exemple, si vous utilisez Windows 7 ou 8), vous pouvez utiliser le [package-buidler](https://dfint-package-build.streamlit.app) à la place.
+Si vous rencontrez des problèmes avec l'installateur (par exemple, si vous utilisez Windows 7 ou 8), vous pouvez utiliser le [package-builder](https://dfint-package-build.streamlit.app) à la place.
+
+![screenshot](screenshot.png)
 
 ### Liens
 

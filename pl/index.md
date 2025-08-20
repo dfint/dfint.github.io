@@ -20,7 +20,9 @@ Krótka instrukcja jak zainstalować tłumaczenie:
 - Uruchom grę.
 - Aby uaktualnić tłumaczenie lub konfigurację dla nowszej wersji gry, uruchom instalator ponownie (podczas gdy gra jest wyłączona) i naciśnij "Aktualizacja".
 
-Jeżeli masz jakieś problemy z użyciem instalatora (np. używasz Windows 7 lub 8), możesz zamiennie użyć [package-buidler](https://dfint-package-build.streamlit.app).
+Jeżeli masz jakieś problemy z użyciem instalatora (np. używasz Windows 7 lub 8), możesz zamiennie użyć [package-builder](https://dfint-package-build.streamlit.app).
+
+![screenshot](screenshot.png)
 
 ### Linki
 

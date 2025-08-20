@@ -22,6 +22,8 @@ Brevi istruzioni su come installare la traduzione:
 
 Se riscontri problemi con il programma d'installazione (ad esempio se utilizzi Windows 7 o 8), puoi invece utilizzare [package-builder](https://dfint-package-build.streamlit.app).
 
+![screenshot](screenshot.png)
+
 ### Link
 
 - [Progetto di traduzione su transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - qui è possibile partecipare alla traduzione del gioco nella propria lingua

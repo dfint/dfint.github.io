@@ -22,7 +22,9 @@ Kurzanleitung:
 - Führen Sie das Spiel aus.
 - Um die Übersetzung oder Konfiguration für eine neuere Version des Spiels zu aktualisieren, führen Sie das Installationsprogramm erneut aus (während das Spiel beendet ist) und drücken Sie dann auf „Aktualisieren“.
 
-Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 oder 8 verwenden), können Sie stattdessen den [package-buidler](https://dfint-package-build.streamlit.app) verwenden.
+Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 oder 8 verwenden), können Sie stattdessen den [package-builder](https://dfint-package-build.streamlit.app) verwenden.
+
+![screenshot](screenshot.png)
 
 ### Links
 

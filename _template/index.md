@@ -20,7 +20,7 @@ Brief instructions on how to install the translation:
 - Run the game.
 - To update translation or configuration for a newer version of the game, run the installer again (while the game is shut down) then press "Update".
 
-If you have some troubles with the installer (e.g. you are useing Windows 7 or 8), you can use the [package-buidler](https://dfint-package-build.streamlit.app) instead.
+If you have some troubles with the installer (e.g. you are useing Windows 7 or 8), you can use the [package-builder](https://dfint-package-build.streamlit.app) instead.
 
 ![screenshot](screenshot.png)
 
