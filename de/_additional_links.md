@@ -1,1 +1,1 @@
-{% include youtube-player.html id="ROElsKLe5vA?si=EN4bu0qN4O9UDapN" %}
+- [Dwarf Fortress auf Deutsch spielen 2025](https://youtu.be/ROElsKLe5vA?si=JPSFDDsjZfppiN2d) (Videoanleitung)
