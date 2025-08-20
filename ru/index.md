@@ -22,6 +22,8 @@ additional_links: true
 
 Если инсталлер по какой-то причине не работает (например, у вас Windows 7 или 8), как альтернативу можно использовать [package-buidler](https://dfint-package-build.streamlit.app).
 
+![screenshot](screenshot.png)
+
 ### Ссылки
 
 - [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - здесь вы можете принять участие в доработке перевода игры на русский язык
