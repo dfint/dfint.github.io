@@ -3,7 +3,7 @@ title: "Übersetzung von Dwarf Fortress ins Deutsche"
 description: "Übersetzung von Dwarf Fortress ins Deutsche"
 lang: "de" # replace it with your language code
 permalink: /de/
-additional_links: false
+additional_links: true
 ---
 
 ### Lokalisierung für 50.* und neuere Versionen von Dwarf Fortress
