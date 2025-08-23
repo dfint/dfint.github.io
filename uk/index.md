@@ -8,7 +8,7 @@ additional_links: false
 
 ### Українізатор для 50.* і новіших версій Dwarf Fortress
 
-Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 версії):
+Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 і 52 версії):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 

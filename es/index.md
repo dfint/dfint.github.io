@@ -8,7 +8,7 @@ additional_links: true
 
 ### Traducción de Dwarf Fortress para versiones 50.* y posteriores
 
-Descargue el instalador de traducción (compatible con versiones de DF 50.10 en adelante, incluídas versiones 51):
+Descargue el instalador de traducción (compatible con versiones de DF 50.10 en adelante, incluídas versiones 51 y 52):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 

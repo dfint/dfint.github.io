@@ -8,7 +8,7 @@ additional_links: true
 
 ### Lokalizacja Dwarf Fortress dla wersji 50.* i nowszych
 
-Pobierz instalator lokalizacji (obsługuje wersję DF 50.10 i nowsze, w tym 51 wersji):
+Pobierz instalator lokalizacji (obsługuje wersję DF 50.10 i nowsze, w tym 51 i 52 wersji):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 

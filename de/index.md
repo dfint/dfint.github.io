@@ -8,8 +8,6 @@ additional_links: true
 
 ### Lokalisierung für 50.* und neuere Versionen von Dwarf Fortress
 
-> Es gibt eine Unterstützung für DF 51.01 Betas (mit Abenteuermodus)
-
 Laden Sie das Lokalisierungsinstallationsprogramm herunter (unterstützt Version DF 50.10 und neuer):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)

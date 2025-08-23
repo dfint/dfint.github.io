@@ -8,7 +8,7 @@ additional_links: true
 
 ### Русификатор для 50.* и более новых версий Dwarf Fortress
 
-Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 версии):
+Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 

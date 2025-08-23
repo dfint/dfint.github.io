@@ -8,8 +8,6 @@ additional_links: true
 
 ### Localisation pour la version 50.* et plus récentes de Dwarf Fortress
 
-> La prise en charge des bêtas de DF 51.01 (avec le mode Aventure) est disponible.
-
 Téléchargez l'installateur de localisation (compatible avec la version DF 50.10 et plus récentes) :
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)

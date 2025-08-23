@@ -8,7 +8,7 @@ additional_links: false
 
 ### Localizzazione per 50.* e versioni più recenti di Dwarf Fortress
 
-Scarica il programma di installazione della localizzazione (supporta la versione di DF 50.10 e successive, incluse le versioni 51):
+Scarica il programma di installazione della localizzazione (supporta la versione di DF 50.10 e successive, incluse le versioni 51 e 52):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 

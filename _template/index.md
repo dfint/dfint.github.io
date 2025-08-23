@@ -8,7 +8,7 @@ additional_links: false
 
 ### Localization for 50.* and newer versions of Dwarf Fortress
 
-Download the localization installer (supports version of DF 50.10 and newer, including 51 versions):
+Download the localization installer (supports version of DF 50.10 and newer, including versions 51 and 52):
 
 [![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
 
