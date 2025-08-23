@@ -12,7 +12,7 @@ additional_links: false
 
 Baixe o instalador de localização (compatível com a versão do DF 50.10 e mais recentes, incluindo as versões 51 e 52):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Breves instruções de como instalar a tradução:
 
@@ -22,7 +22,7 @@ Breves instruções de como instalar a tradução:
 - Execute o jogo.
 - Para atualizar a tradução ou a configuração para uma versão mais recente do jogo, execute o instalador novamente (enquanto o jogo estiver desligado) e pressione "Atualizar".
 
-Se você tiver problemas com o instalador (por exemplo, se estiver usando o Windows 7 ou 8), em vez disso, poderá usar o [package-builder](https://dfint-package-build.streamlit.app).
+Se você tiver problemas com o instalador (por exemplo, se estiver usando o Windows 7 ou 8), em vez disso, poderá usar o [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
 ![screenshot](screenshot.png)
 

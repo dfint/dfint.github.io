@@ -10,7 +10,7 @@ additional_links: true
 
 Laden Sie das Lokalisierungsinstallationsprogramm herunter (unterstützt Version DF 50.10 und neuer):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Kurzanleitung:
 
@@ -20,7 +20,7 @@ Kurzanleitung:
 - Führen Sie das Spiel aus.
 - Um die Übersetzung oder Konfiguration für eine neuere Version des Spiels zu aktualisieren, führen Sie das Installationsprogramm erneut aus (während das Spiel beendet ist) und drücken Sie dann auf „Aktualisieren“.
 
-Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 oder 8 verwenden), können Sie stattdessen den [package-builder](https://dfint-package-build.streamlit.app) verwenden.
+Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 oder 8 verwenden), können Sie stattdessen den [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"} verwenden.
 
 ![screenshot](screenshot.png)
 

@@ -10,7 +10,7 @@ additional_links: true
 
 Descargue el instalador de traducción (compatible con versiones de DF 50.10 en adelante, incluídas versiones 51 y 52):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Instrucciones breves para instalar la traducción:
 
@@ -20,7 +20,7 @@ Instrucciones breves para instalar la traducción:
 - Inicie el juego.
 - Si necesita actualizar la traducción o configuración para versiones más recientes del juego debe ejecutar de nuevo el instalador (con el juego cerrado) y luego pulsar en "Actualizar".
 
-Si tiene problemas con el instalador (p. ej. si utiliza Windows 7 u 8), puede utilizar el [package-builder](https://dfint-package-build.streamlit.app) en su lugar.
+Si tiene problemas con el instalador (p. ej. si utiliza Windows 7 u 8), puede utilizar el [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"} en su lugar.
 
 ![screenshot](screenshot.png)
 

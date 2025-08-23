@@ -10,7 +10,7 @@ additional_links: false
 
 Scarica il programma di installazione della localizzazione (supporta la versione di DF 50.10 e successive, incluse le versioni 51 e 52):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Brevi istruzioni su come installare la traduzione:
 
@@ -20,7 +20,7 @@ Brevi istruzioni su come installare la traduzione:
 - Esegui il gioco.
 - Per aggiornare la traduzione o la configurazione a una versione più recente del gioco, esegui nuovamente il programma d'installazione (a gioco spento), quindi premi "Aggiorna".
 
-Se riscontri problemi con il programma d'installazione (ad esempio se utilizzi Windows 7 o 8), puoi invece utilizzare [package-builder](https://dfint-package-build.streamlit.app).
+Se riscontri problemi con il programma d'installazione (ad esempio se utilizzi Windows 7 o 8), puoi invece utilizzare [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
 ![screenshot](screenshot.png)
 

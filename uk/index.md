@@ -10,7 +10,7 @@ additional_links: false
 
 Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 і 52 версії):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Коротка інструкція по установці перекладу:
 
@@ -20,7 +20,7 @@ additional_links: false
 - Запустіть гру.
 - Щоб оновити переклад або конфігурацію для новішої версії гри, знову запустіть інсталятор (поки гра закрита), а потім натисніть «Оновити».
 
-Якщо у вас виникли проблеми з інсталятором (наприклад, ви користуєтеся Windows 7 або 8), замість цього можна скористатися [package-builder](https://dfint-package-build.streamlit.app).
+Якщо у вас виникли проблеми з інсталятором (наприклад, ви користуєтеся Windows 7 або 8), замість цього можна скористатися [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
 ![screenshot](screenshot.png)
 

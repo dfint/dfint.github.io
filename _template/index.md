@@ -10,7 +10,7 @@ additional_links: false
 
 Download the localization installer (supports version of DF 50.10 and newer, including versions 51 and 52):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Brief instructions on how to install the translation:
 
@@ -20,7 +20,7 @@ Brief instructions on how to install the translation:
 - Run the game.
 - To update translation or configuration for a newer version of the game, run the installer again (while the game is shut down) then press "Update".
 
-If you have some troubles with the installer (e.g. you are useing Windows 7 or 8), you can use the [package-builder](https://dfint-package-build.streamlit.app) instead.
+If you have some troubles with the installer (e.g. you are useing Windows 7 or 8), you can use the [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"} instead.
 
 ![screenshot](screenshot.png)
 
