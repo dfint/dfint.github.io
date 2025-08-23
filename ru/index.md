@@ -10,7 +10,7 @@ additional_links: true
 
 Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest)
+[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
 
 Краткая инструкция по установке перевода:
 
@@ -22,7 +22,7 @@ additional_links: true
 
 Если инсталлер по какой-то причине не работает (например, у вас Windows 7 или 8), как альтернативу можно использовать [package-builder](https://dfint-package-build.streamlit.app).
 
-![screenshot](screenshot.png){:target="_blank"}
+![screenshot](screenshot.png)
 
 ### Ссылки
 
