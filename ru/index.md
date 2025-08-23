@@ -22,7 +22,7 @@ additional_links: true
 
 Если инсталлер по какой-то причине не работает (например, у вас Windows 7 или 8), как альтернативу можно использовать [package-builder](https://dfint-package-build.streamlit.app).
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png){:target="_blank"}
 
 ### Ссылки
 
