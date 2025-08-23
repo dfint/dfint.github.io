@@ -1,0 +1,10 @@
+{
+    "windows": {
+        "name": "dfint-installer-win-0.5.0.zip",
+        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-win-0.5.0.zip"
+    },
+    "linux": {
+        "name": "dfint-installer-lin-0.5.0.tar.gz",
+        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-lin-0.5.0.tar.gz"
+    }
+}
