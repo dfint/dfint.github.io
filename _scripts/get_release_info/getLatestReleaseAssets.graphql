@@ -1,0 +1,16 @@
+query getLatestReleaseAssets(
+  $owner: String!
+  $name: String!
+  $first: Int!
+) {
+  repository(owner: $owner, name: $name) {
+    latestRelease {
+      releaseAssets(first: $first) {
+        nodes {
+          name
+          downloadUrl
+        }
+      }
+    }
+  }
+}
