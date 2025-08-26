@@ -10,8 +10,10 @@ additional_links: true
 
 Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
 
-> Версия для Windows: [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> Версия для Linux: [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
+> Версия для Windows:
+> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
+> Версия для Linux:
+> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
 
 Краткая инструкция по установке перевода:
 
