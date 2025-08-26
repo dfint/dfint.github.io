@@ -1,3 +1,4 @@
+import json
 import os
 from pathlib import Path
 
@@ -36,8 +37,24 @@ def main():
 
     response_json = response.json()
     assets = response_json["data"]["repository"]["latestRelease"]["releaseAssets"]["nodes"]
+    
+    map_os_names = {
+        "win": "windows",
+        "lin": "linux",
+    }
+
+    result = {}
     for asset in assets:
-        print(f"{asset['name']}: {asset['downloadUrl']}")
+        os_part = asset["name"].split("-")[2]
+        os_name = map_os_names[os_part]
+        print(f"{os_name}: {asset['downloadUrl']}")
+
+        result[os_name] = {
+            "name": asset["name"],
+            "url": asset["downloadUrl"],
+        }
+
+    output_file.write_text(json.dumps(result, indent=4, ensure_ascii=False))
 
 
 if __name__ == "__main__":
