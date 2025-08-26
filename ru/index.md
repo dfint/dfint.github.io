@@ -10,11 +10,12 @@ additional_links: true
 
 Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
+> Версия для Windows: [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
+> Версия для Linux: [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
 
 Краткая инструкция по установке перевода:
 
-- Скачайте архив (кнопка перехода на страницу скачивания выше, `win` для windows, `lin` для linux), распаковать, запустить файл `dfint-installer`.
+- Скачайте архив, распакуйте, запустить файл `dfint-installer`.
 - Выберите ("Откройте") исполняемый файл игры (`Dwarf Fortress.exe` или `dwarfort`). Можно положить файл `dfint-installer` в папку игры, тогда не нужно будет при первом запуске указывать путь к исполняемому файлу.
 - Выберите язык перевода, нажать "Обновить" ("Update").
 - Запустите игру.
