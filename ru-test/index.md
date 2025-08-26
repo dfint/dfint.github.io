@@ -1,21 +1,16 @@
 ---
 title: "Перевод игры Dwarf Fortress на русский язык"
-description: "Перевод игры Dwarf Fortress на русский язык"
-lang: "ru-RU" # replace it with your language code
-permalink: /russian/
+description: "Русификатор для 50.* и более новых версий Dwarf Fortress"
 additional_links: true
+layout: download_page
+downloads:
+    windows_description: "Версия для Windows:"
+    linux_description: "Версия для Linux:"
 ---
 
-### Русификатор для 50.* и более новых версий Dwarf Fortress
+Установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии).
 
-Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
-
-> Версия для Windows:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> Версия для Linux:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
-
-Краткая инструкция по установке перевода:
+Краткая инструкция по установке:
 
 - Скачайте архив, распакуйте, запустите файл `dfint-installer`.
 - Выберите ("Откройте") исполняемый файл игры (`Dwarf Fortress.exe` или `dwarfort`). Можно положить файл `dfint-installer` в папку игры, тогда не нужно будет при первом запуске указывать путь к исполняемому файлу.
