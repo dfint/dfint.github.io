@@ -1,16 +1,19 @@
 ---
 title: "Перевод игры Dwarf Fortress на русский язык"
-description: "Русификатор для 50.* и более новых версий Dwarf Fortress"
+description: "Перевод игры Dwarf Fortress на русский язык"
 lang: "ru-RU" # replace it with your language code
-layout: download_page
 permalink: /russian/
 additional_links: true
-downloads:
-    windows_description: "Версия для Windows:"
-    linux_description: "Версия для Linux:"
 ---
 
-Установщик локализации поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии.
+### Русификатор для 50.* и более новых версий Dwarf Fortress
+
+Скачать установщик локализации (поддерживает версии DF от 50.10 и новее, включая 51 и 52 версии):
+
+> Версия для Windows:
+> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
+> Версия для Linux:
+> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
 
 Краткая инструкция по установке перевода:
 
