@@ -1,0 +1,22 @@
+version: 2
+enable-beta-ecosystems: true
+updates:
+  - package-ecosystem: "uv"
+    directory: "/_scripts/get_release_info/"
+    schedule:
+      interval: "monthly"
+    groups:
+      dev-dependencies:
+        patterns:
+          - "pytest*"
+          - "ruff"
+          - "coverage"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      all:
+        patterns:
+          - "*"
