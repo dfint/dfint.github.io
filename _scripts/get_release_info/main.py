@@ -29,7 +29,6 @@ def main():
                 "first": 2,
             }
         },
-        follow_redirects=True,
         headers={"Authorization": f"Bearer {GITHUB_TOKEN}"},
         timeout=httpx.Timeout(60)
     )
