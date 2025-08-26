@@ -2,7 +2,6 @@ from pathlib import Path
 
 import httpx
 
-
 current_dir = Path(__file__).parent
 query_get_last_release_assets = (current_dir / "getLatestReleaseAssets.graphql").read_text()
 url = "http://api.github.com/graphql"
