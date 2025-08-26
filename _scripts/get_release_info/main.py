@@ -8,6 +8,7 @@ query_get_last_release_assets = (current_dir / "getLatestReleaseAssets.graphql")
 url = "http://api.github.com/graphql"
 
 repo_root_dir = current_dir.parent.parent
+assert (repo_root_dir / ".git").exists()
 output_file = repo_root_dir / "_data/release_assets.json"
 
 
