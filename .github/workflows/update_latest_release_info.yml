@@ -7,16 +7,10 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '_scripts/get_release_info/**'
-      - '.github/workflows/update_latest_release_info.yml'
 
   pull_request:
     branches:
       - main
-    paths:
-      - '_scripts/get_release_info/**'
-      - '.github/workflows/update_latest_release_info.yml'
 
 permissions:
   contents: write
