@@ -1,9 +1,14 @@
 .download-card {
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    border: 1px solid #eaecef;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+    padding: 18px;
+    width: 100%;
+    max-width: none;
+    margin: 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
 }
 
 .download-card > ul {
@@ -13,7 +18,7 @@
 }
 
 .download-card > ul > li {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     font-weight: 500;
     color: #2c3e50;
 }
@@ -25,26 +30,27 @@
 .download-card ul ul {
     list-style: none;
     padding: 0;
-    margin-top: 8px;
-    margin-left: 16px;
+    margin-top: 6px;
+    margin-left: 12px;
 }
 
 .download-card ul ul li {
-    margin-bottom: 8px;
+    margin-bottom: 6px;
 }
 
 .download-card a {
     display: block;
-    padding: 8px;
+    padding: 10px 14px;
     text-decoration: none;
-    color: #3498db;
+    color: #2c5282;
     font-weight: 500;
-    border-radius: 8px;
-    background: #f8f9fa;
-    border: 1px solid #eaecef;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    transition: all 0.15s ease;
 }
 
 .download-card a:hover {
-    background: #edf2f7;
-    color: #2980b9;
+    background: rgba(255, 255, 255);
+    color: #2b6cb0;
 }
