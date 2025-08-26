@@ -1,0 +1,63 @@
+.download-card {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+    max-width: 500px;
+    margin: 20px auto;
+    border: 1px solid #eaecef;
+}
+
+.download-card > ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.download-card > ul > li {
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+.download-card > ul > li:last-child {
+    margin-bottom: 0;
+}
+
+.download-card ul ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 8px;
+    margin-left: 16px;
+}
+
+.download-card ul ul li {
+    margin-bottom: 8px;
+}
+
+.download-card a {
+    display: block;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: #3498db;
+    font-weight: 500;
+    border-radius: 8px;
+    background: #f8f9fa;
+    border: 1px solid #eaecef;
+}
+
+.download-card a:hover {
+    background: #edf2f7;
+    color: #2980b9;
+}
+
+@media (max-width: 600px) {
+    .download-card {
+        padding: 16px;
+    }
+    
+    .download-card > h2 {
+        font-size: 20px;
+    }
+}

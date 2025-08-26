@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h3>{{ page.description }}</h3>
+
+<div class="download-card">
+    <ul>
+        <li>{{ page.downloads.windows_description }}
+            <ul>
+                <li>
+                    <a href="{{ site.data.release_assets.windows.url }}">📦 {{ site.data.release_assets.windows.name }}</a>
+                </li>
+            </ul>
+        </li>
+        
+        <li>{{ page.downloads.linux_description }}
+            <ul>
+                <li>
+                    <a href="{{ site.data.release_assets.linux.url }}">🐧 {{ site.data.release_assets.linux.name }}</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{ content }}
