@@ -10,7 +10,10 @@ additional_links: false
 
 Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 і 52 версії):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
+> Версія для Windows:
+> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
+> Версія для Linux:
+> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
 
 Коротка інструкція по установці перекладу:
 

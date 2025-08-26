@@ -10,11 +10,14 @@ additional_links: true
 
 Pobierz instalator lokalizacji (obsługuje wersję DF 50.10 i nowsze, w tym 51 i 52 wersji):
 
-[![dfint/installer](/assets/img/download-button.svg)](https://github.com/dfint/installer/releases/latest){:target="_blank"}
+> The Windows version:
+> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
+> The Linux version:
+> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
 
 Krótka instrukcja jak zainstalować tłumaczenie:
 
-- Pobierz pakiet (naciśnij przycisk poniżej, pobierz pakiet `win` dla Windowsa, lub `lin` dla Linux), rozpakuj go, uruchom plik `dfint-installer`.
+- Pobierz pakiet, rozpakuj go, uruchom plik `dfint-installer`.
 - Wybierz ("Otwórz") plik wykonywalny gry (`Dwarf Fortress.exe` lub `dwarfort`). Zamiennie, możesz umieścić plik `dfint-installer` w katalogu gry; w takim wypadku znajdzie on plik wykonywalny gry automatycznie.
 - Wybierz język tłumaczenia, i naciśnij "Aktualizacja".
 - Uruchom grę.
