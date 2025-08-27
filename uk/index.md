@@ -1,23 +1,20 @@
 ---
 title: "Переклад Dwarf Fortress українською мовою"
-description: "Переклад Dwarf Fortress українською мовою"
+description: "Українізатор для 50.* і новіших версій Dwarf Fortress"
 lang: "uk" # replace it with your language code
 permalink: /uk/
 additional_links: false
+layout: download_page
+downloads:
+    windows_description: "Версія для Windows:"
+    linux_description: "Версія для Linux:"
 ---
 
-### Українізатор для 50.* і новіших версій Dwarf Fortress
+Інсталятор підтримує DF 50.10 і новіші версії, включаючи 51 і 52:
 
-Завантажити інсталятор локалізації (підтримується DF 50.10 і новіші версії, включаючи 51 і 52 версії):
+Інструкція по установці перекладу:
 
-> Версія для Windows:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> Версія для Linux:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
-
-Коротка інструкція по установці перекладу:
-
-- Завантажте пакет (натисніть кнопку вище, завантажте пакет `win` для windows або `lin` для linux), розпакуйте його, запустіть файл `dfint-installer`.
+- Завантажте пакет розпакуйте його, запустіть файл `dfint-installer`.
 - Виберіть («Відкрийте») виконуваний файл гри (`Dwarf Fortress.exe` або `dwarfort`). Також ви можете помістити файл `dfint-installer` у каталог гри, тоді він сам знайде виконуваний файл гри.
 - Виберіть мову перекладу, потім натисніть «Оновити».
 - Запустіть гру.
