@@ -1,10 +1,12 @@
 {
     "linux": {
         "name": "dfint-installer-lin-0.5.0.tar.gz",
-        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-lin-0.5.0.tar.gz"
+        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-lin-0.5.0.tar.gz",
+        "size_mb": "4.1 MB"
     },
     "windows": {
         "name": "dfint-installer-win-0.5.0.zip",
-        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-win-0.5.0.zip"
+        "url": "https://github.com/dfint/installer/releases/download/0.5.0/dfint-installer-win-0.5.0.zip",
+        "size_mb": "3.0 MB"
     }
 }
