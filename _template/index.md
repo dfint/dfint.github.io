@@ -1,19 +1,16 @@
 ---
 title: "Translation of Dwarf Fortress to 'your language'"
-description: "Translation of Dwarf Fortress to 'your language'"
+description: "Localization for 50.* and newer versions of Dwarf Fortress"
 lang: "en" # replace it with your language code
 permalink: /en/
 additional_links: false
+layout: download_page
+downloads:
+    windows_description: "Windows version:"
+    linux_description: "Linux version:"
 ---
 
-### Localization for 50.* and newer versions of Dwarf Fortress
-
-Download the localization installer (supports version of DF 50.10 and newer, including versions 51 and 52):
-
-> The Windows version:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> The Linux version:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
+The localization installer supports version of DF 50.10 and newer, including versions 51 and 52.
 
 Brief instructions on how to install the translation:
 
