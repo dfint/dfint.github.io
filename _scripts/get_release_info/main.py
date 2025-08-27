@@ -51,7 +51,7 @@ def main():
         result[os_name] = {
             "name": asset["name"],
             "url": asset["downloadUrl"],
-            "size_mb": f"{size_mb:.2} MB"
+            "size_mb": f"{size_mb:.3} MB"
         }
 
     print(json.dumps(result, indent=4, ensure_ascii=False))
