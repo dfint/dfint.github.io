@@ -5,13 +5,11 @@
     box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
     padding: 18px;
     width: 100%;
-    max-width: none;
-    margin: 0 auto;
     border: 1px solid rgba(255, 255, 255, 0.4);
     box-sizing: border-box;
 }
 
-.download-card > ul {
+.download-card ul {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -28,8 +26,6 @@
 }
 
 .download-card ul ul {
-    list-style: none;
-    padding: 0;
     margin-top: 6px;
     margin-left: 12px;
 }
@@ -38,8 +34,9 @@
     margin-bottom: 6px;
 }
 
-.download-card a {
-    display: block;
+.download-item {
+    display: flex;
+    align-items: center;
     padding: 10px 14px;
     text-decoration: none !important;
     color: #2c5282;
@@ -50,7 +47,32 @@
     transition: all 0.15s ease;
 }
 
-.download-card a:hover {
-    background: rgba(255, 255, 255, 1.0);
+.download-item:hover {
+    background: rgba(255, 255, 255, 0.9);
     color: #2b6cb0;
+}
+
+.file-icon {
+    margin-right: 10px;
+    font-size: 18px;
+    width: 24px;
+    text-align: center;
+}
+
+.file-name {
+    flex: 1;
+}
+
+.file-size {
+    font-size: 13px;
+    color: #6c757d;
+    margin-right: 12px;
+    background: rgba(0, 0, 0, 0.05);
+    padding: 3px 8px;
+    border-radius: 4px;
+}
+
+.download-icon {
+    color: #28a745;
+    font-size: 16px;
 }

@@ -8,7 +8,12 @@ layout: default
         <li>{{ page.downloads.windows_description }}
             <ul>
                 <li>
-                    <a href="{{ site.data.release_assets.windows.url }}">📦 {{ site.data.release_assets.windows.name }}</a>
+                    <a href="{{ site.data.release_assets.windows.url }}" class="download-item">
+                        <span class="file-icon"><i class="fas fa-file-archive"></i></span>
+                        <span class="file-name">{{ site.data.release_assets.windows.name }}</span>
+                        <span class="file-size">{{ site.data.release_assets.windows.size_mb }}</span>
+                        <span class="download-icon"><i class="fas fa-download"></i></span>
+                    </a>
                 </li>
             </ul>
         </li>
@@ -16,7 +21,12 @@ layout: default
         <li>{{ page.downloads.linux_description }}
             <ul>
                 <li>
-                    <a href="{{ site.data.release_assets.linux.url }}">🐧 {{ site.data.release_assets.linux.name }}</a>
+                    <a href="{{ site.data.release_assets.linux.url }}" class="download-item">
+                        <span class="file-icon"><i class="fab fa-linux"></i></span>
+                        <span class="file-name">{{ site.data.release_assets.linux.name }}</span>
+                        <span class="file-size">{{ site.data.release_assets.linux.size_mb }}</span>
+                        <span class="download-icon"><i class="fas fa-download"></i></span>
+                    </a>
                 </li>
             </ul>
         </li>
