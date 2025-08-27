@@ -1,19 +1,16 @@
 ---
 title: "Traducción de Dwarf Fortress a español"
-description: "Traducción de Dwarf Fortress a español"
+description: "Traducción de Dwarf Fortress para versiones 50.* y posteriores"
 lang: "es" # replace it with your language code
 permalink: /spanish/
 additional_links: true
+layout: download_page
+downloads:
+    windows_description: "Versión de Windows:"
+    linux_description: "Versión de Linux:"
 ---
 
-### Traducción de Dwarf Fortress para versiones 50.* y posteriores
-
-Descargue el instalador de traducción (compatible con versiones de DF 50.10 en adelante, incluídas versiones 51 y 52):
-
-> The Windows version:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> The Linux version:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
+El instalador de traducción es compatible con versiones de DF 50.10 en adelante, incluídas versiones 51 y 52.
 
 Instrucciones breves para instalar la traducción:
 
