@@ -1,19 +1,16 @@
 ---
 title: "Tłumaczenie Dwarf Fortress na język polski"
-description: "Tłumaczenie Dwarf Fortress na język polski"
+description: "Lokalizacja Dwarf Fortress dla wersji 50.* i nowszych"
 lang: "pl" # replace it with your language code
 permalink: /pl/
 additional_links: true
+layout: download_page
+downloads:
+    windows_description: "Wersja dla systemu Windows:"
+    linux_description: "Wersja dla systemu Linux:"
 ---
 
-### Lokalizacja Dwarf Fortress dla wersji 50.* i nowszych
-
-Pobierz instalator lokalizacji (obsługuje wersję DF 50.10 i nowsze, w tym 51 i 52 wersji):
-
-> The Windows version:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> The Linux version:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
+Instalator lokalizacji obsługuje wersję DF 50.10 i nowsze, w tym 51 i 52 wersji.
 
 Krótka instrukcja jak zainstalować tłumaczenie:
 
