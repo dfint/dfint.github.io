@@ -47,10 +47,13 @@ def main():
         os_part = asset["name"].split("-")[2]
         os_name = map_os_names[os_part]
         print(f"{os_name}: {asset['downloadUrl']}")
+        
+        size_mb = asset["size"] / 1024 / 1024
 
         result[os_name] = {
             "name": asset["name"],
             "url": asset["downloadUrl"],
+            "size_mb": f"{size_mb:.2} MB"
         }
 
     output_file.write_text(json.dumps(result, indent=4, ensure_ascii=False))
