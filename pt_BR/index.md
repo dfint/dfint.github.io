@@ -1,31 +1,28 @@
 ---
-title: "Tradução de Dwarf Fortress para Português do Brasil"
-description: "Tradução de Dwarf Fortress para Português do Brasil"
-lang: "pt-BR" # replace it with your language code
+title: "Tradução de Dwarf Fortress para 'português do Brasil'"
+description: "Localização para as versões 50.* e mais recentes do Dwarf Fortress"
+lang: "pt-br"
 permalink: /pt-br/
 redirect_from:
   - /pt-BR/
 additional_links: false
+layout: download_page
+downloads:
+    windows_description: "Versão para Windows:"
+    linux_description: "Versão para Linux:"
 ---
 
-### Localização para 50.* e novas versões de Dwarf Fortress
+O instalador de localização suporta a versão do DF 50.10 e mais recentes, incluindo as versões 51 e 52.
 
-Baixe o instalador de localização (compatível com a versão do DF 50.10 e mais recentes, incluindo as versões 51 e 52):
+Instruções breves sobre como instalar a tradução:
 
-> The Windows version:
-> [{{ site.data.release_assets.windows.name }}]({{ site.data.release_assets.windows.url }})  
-> The Linux version:
-> [{{ site.data.release_assets.linux.name }}]({{ site.data.release_assets.linux.url }})
-
-Breves instruções de como instalar a tradução:
-
-- Baixe o pacote, descompacte-o e execute o arquivo `dfint-installer`.
-- Selecione (“Abrir”) o arquivo executável do jogo (`Dwarf Fortress.exe` ou `dwarfort`). Como alternativa, você pode colocar o arquivo `dfint-installer` no diretório do jogo para que ele próprio encontre o executável do jogo.
-- Escolha o idioma da tradução e pressione “Atualizar”.
+- Baixe o instalador, descompacte-o e execute o arquivo `dfint-installer`.
+- Selecione ("Abrir") o arquivo executável do jogo (`Dwarf Fortress.exe` ou `dwarfort`). Alternativamente, você pode colocar o arquivo `dfint-installer` no diretório do jogo, então ele encontrará o executável do jogo sozinho.
+- Escolha o idioma da tradução e pressione "Atualizar".
 - Execute o jogo.
-- Para atualizar a tradução ou a configuração para uma versão mais recente do jogo, execute o instalador novamente (enquanto o jogo estiver desligado) e pressione "Atualizar".
+- Para atualizar a tradução ou a configuração para uma versão mais recente do jogo, execute o instalador novamente (com o jogo fechado) e pressione "Atualizar".
 
-Se você tiver problemas com o instalador (por exemplo, se estiver usando o Windows 7 ou 8), em vez disso, poderá usar o [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
+Se você tiver algum problema com o instalador (por exemplo, se estiver usando Windows 7 ou 8), pode usar o [construtor de pacotes](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
 ![screenshot](screenshot.png){:.centered}
 
