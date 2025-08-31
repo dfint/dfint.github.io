@@ -1,79 +1,79 @@
 .download-card {
-    background-color: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(8px);
-    border-radius: 10px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
-    padding: 18px;
-    width: 100%;
-    border: 1px solid rgba(255, 255, 255, 0.4);
-    box-sizing: border-box;
-    margin-bottom: 16px;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+  padding: 18px;
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-sizing: border-box;
+  margin-bottom: 16px;
 }
 
 .download-card ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-.download-card > ul > li {
-    margin-bottom: 16px;
-    font-weight: 500;
-    color: #2c3e50;
+.download-card>ul>li {
+  margin-bottom: 16px;
+  font-weight: 500;
+  color: #2c3e50;
 }
 
-.download-card > ul > li:last-child {
-    margin-bottom: 0;
+.download-card>ul>li:last-child {
+  margin-bottom: 0;
 }
 
 .download-card ul ul {
-    margin-top: 6px;
-    margin-left: 12px;
+  margin-top: 6px;
+  margin-left: 12px;
 }
 
 .download-card ul ul li {
-    margin-bottom: 6px;
+  margin-bottom: 6px;
 }
 
 .download-item {
-    display: flex;
-    align-items: center;
-    padding: 10px 14px;
-    text-decoration: none !important;
-    color: #2c5282;
-    font-weight: 500;
-    border-radius: 6px;
-    background: rgba(255, 255, 255, 0.5);
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    transition: all 0.15s ease;
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  text-decoration: none !important;
+  color: #2c5282;
+  font-weight: 500;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease;
 }
 
 .download-item:hover {
-    background: rgba(255, 255, 255, 0.9);
-    color: #2b6cb0;
+  background: rgba(255, 255, 255, 0.9);
+  color: #2b6cb0;
 }
 
 .file-icon {
-    margin-right: 10px;
-    font-size: 18px;
-    width: 24px;
-    text-align: center;
+  margin-right: 10px;
+  font-size: 18px;
+  width: 24px;
+  text-align: center;
 }
 
 .file-name {
-    flex: 1;
+  flex: 1;
 }
 
 .file-size {
-    font-size: 13px;
-    color: #6c757d;
-    margin-right: 12px;
-    background: rgba(0, 0, 0, 0.05);
-    padding: 3px 8px;
-    border-radius: 4px;
+  font-size: 13px;
+  color: #6c757d;
+  margin-right: 12px;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 3px 8px;
+  border-radius: 4px;
 }
 
 .download-icon {
-    color: #28a745;
-    font-size: 16px;
+  color: #28a745;
+  font-size: 16px;
 }
