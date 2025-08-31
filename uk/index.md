@@ -22,7 +22,7 @@ downloads:
 
 Якщо у вас виникли проблеми з інсталятором (наприклад, ви користуєтеся Windows 7 або 8), замість цього можна скористатися [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png){:.centered}
 
 ### Посилання
 

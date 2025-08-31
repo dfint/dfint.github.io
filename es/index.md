@@ -22,7 +22,7 @@ Instrucciones breves para instalar la traducción:
 
 Si tiene problemas con el instalador (p. ej. si utiliza Windows 7 u 8), puede utilizar el [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"} en su lugar.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png){:.centered}
 
 ### Enlaces
 

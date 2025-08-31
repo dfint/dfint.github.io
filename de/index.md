@@ -22,7 +22,7 @@ Kurzanleitung zur Installation der Übersetzung:
 
 Wenn Sie Probleme mit dem Installer haben (z.B. Sie verwenden Windows 7 oder 8), können Sie stattdessen den [Paket-Builder](https://dfint-package-build.streamlit.app){:target="_blank"} verwenden.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png){:.centered}
 
 ### Links
 
