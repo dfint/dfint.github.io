@@ -1,5 +1,5 @@
 ---
-title: "Traduzione di Dwarf Fortress in 'italiano'"
+title: "Traduzione di Dwarf Fortress in italiano"
 description: "Localizzazione per le versioni 50.* e successive di Dwarf Fortress"
 lang: "it"
 permalink: /it/
