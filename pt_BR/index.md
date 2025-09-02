@@ -1,7 +1,7 @@
 ---
-title: "Tradução de Dwarf Fortress para 'português do Brasil'"
-description: "Localização para as versões 50.* e mais recentes do Dwarf Fortress"
-lang: "pt-br"
+title: "Tradução de Dwarf Fortress para Português do Brasil"
+description: "Localização para 50.* e novas versões de Dwarf Fortress"
+lang: "pt-BR" # replace it with your language code
 permalink: /pt-br/
 redirect_from:
   - /pt-BR/
@@ -14,15 +14,15 @@ downloads:
 
 O instalador de localização suporta a versão do DF 50.10 e mais recentes, incluindo as versões 51 e 52.
 
-Instruções breves sobre como instalar a tradução:
+Breves instruções de como instalar a tradução:
 
-- Baixe o instalador, descompacte-o e execute o arquivo `dfint-installer`.
-- Selecione ("Abrir") o arquivo executável do jogo (`Dwarf Fortress.exe` ou `dwarfort`). Alternativamente, você pode colocar o arquivo `dfint-installer` no diretório do jogo, então ele encontrará o executável do jogo sozinho.
-- Escolha o idioma da tradução e pressione "Atualizar".
+- Baixe o pacote, descompacte-o e execute o arquivo `dfint-installer`.
+- Selecione (“Abrir”) o arquivo executável do jogo (`Dwarf Fortress.exe` ou `dwarfort`). Como alternativa, você pode colocar o arquivo `dfint-installer` no diretório do jogo para que ele próprio encontre o executável do jogo.
+- Escolha o idioma da tradução e pressione “Atualizar”.
 - Execute o jogo.
-- Para atualizar a tradução ou a configuração para uma versão mais recente do jogo, execute o instalador novamente (com o jogo fechado) e pressione "Atualizar".
+- Para atualizar a tradução ou a configuração para uma versão mais recente do jogo, execute o instalador novamente (enquanto o jogo estiver desligado) e pressione "Atualizar".
 
-Se você tiver algum problema com o instalador (por exemplo, se estiver usando Windows 7 ou 8), pode usar o [construtor de pacotes](https://dfint-package-build.streamlit.app){:target="_blank"}.
+Se você tiver problemas com o instalador (por exemplo, se estiver usando o Windows 7 ou 8), em vez disso, poderá usar o [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}.
 
 ![screenshot](screenshot.png){:.centered}
 

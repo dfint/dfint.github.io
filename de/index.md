@@ -15,18 +15,18 @@ Der Lokalisierungs-Installer unterstützt Dwarf Fortress ab Version 50.10 sowie 
 Kurzanleitung zur Installation der Übersetzung:
 
 - Laden Sie den Installer herunter, entpacken Sie ihn und führen Sie die Datei `dfint-installer` aus.
-- Wählen Sie ("Öffnen") die ausführbare Datei des Spiels (`Dwarf Fortress.exe` oder `dwarfort`). Alternativ können Sie die Datei `dfint-installer` in das Spielverzeichnis legen, dann findet sie die ausführbare Datei des Spiels selbstständig.
-- Wählen Sie die Übersetzungssprache und drücken Sie dann auf "Aktualisieren".
-- Starten Sie das Spiel.
-- Um die Übersetzung oder Konfiguration für eine neuere Version des Spiels zu aktualisieren, führen Sie den Installer erneut aus (während das Spiel beendet ist) und drücken Sie dann auf "Aktualisieren".
+- Wählen Sie die ausführbare Datei des Spiels aus (`Dwarf Fortress.exe` oder `dwarfort`). Alternativ können Sie die Datei `dfint-installer` in das Verzeichnis des Spiels legen. Anschließend findet sie die ausführbare Datei des Spiels von selbst.
+- Wählen Sie die Übersetzungssprache und drücken Sie dann auf „Aktualisieren“.
+- Führen Sie das Spiel aus.
+- Um die Übersetzung oder Konfiguration für eine neuere Version des Spiels zu aktualisieren, führen Sie das Installationsprogramm erneut aus (während das Spiel beendet ist) und drücken Sie dann auf „Aktualisieren“.
 
-Wenn Sie Probleme mit dem Installer haben (z.B. Sie verwenden Windows 7 oder 8), können Sie stattdessen den [Paket-Builder](https://dfint-package-build.streamlit.app){:target="_blank"} verwenden.
+Wenn Sie Probleme mit dem Installationsprogramm haben (z. B. wenn Sie Windows 7 oder 8 verwenden), können Sie stattdessen den [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"} verwenden.
 
 ![screenshot](screenshot.png){:.centered}
 
 ### Links
 
-- [Übersetzungsprojekt auf Transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - hier können Sie an der Übersetzung des Spiels ins Deutsche mitwirken
-- [Das Projekt auf GitHub](https://github.com/dfint) - hier entwickeln wir Werkzeuge für die Lokalisierung
-- [Die offizielle Dwarf Fortress-Website](https://bay12games.com/dwarves/), [Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
+- [Übersetzungsprojekt auf Transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - hier können Sie an der Übersetzung des Spiels in Ihre Sprache teilnehmen.
+- [Das Projekt auf GitHub](https://github.com/dfint) - hier entwickeln wir Tools für die Lokalisierung
+- [Die offizielle Dwarf Fortress-Site](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
 {% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
