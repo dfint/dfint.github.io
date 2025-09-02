@@ -1,5 +1,5 @@
 ---
-title: "Tradução de Dwarf Fortress para Português do Brasil"
+title: "Dwarf Fortress em Português do Brasil"
 description: "Localização para 50.* e novas versões de Dwarf Fortress"
 lang: "pt-BR" # replace it with your language code
 permalink: /pt-br/
