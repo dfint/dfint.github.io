@@ -11,6 +11,7 @@ downloads:
 ---
 
 The localization installer supports version of DF 50.10 and newer, including versions 51 and 52.
+Steam, itch.io, classic versions for both Windows and Linux platforms are supported.
 
 Brief instructions on how to install the translation:
 
