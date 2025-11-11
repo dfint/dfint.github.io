@@ -10,7 +10,8 @@ downloads:
     linux_description: "Version Linux:"
 ---
 
-Le programme d'installation de traduction prend en charge la version DF 50.10 et plus récente, y compris les versions 51 et 52.
+Le programme d'installation de localisation prend en charge la version DF 50.10 et les versions plus récentes, y compris les versions 51, 52 et 53.
+Steam, itch.io, les versions classiques pour les plateformes Windows et Linux sont prises en charge.
 
 Quelques instructions sur l'installation des traductions:
 
