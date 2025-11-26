@@ -10,4 +10,5 @@ lang: "en-US"
 - [Portuguese (Brazil)](pt-br)
 - [Russian](russian)
 - [Spanish](spanish)
+- [Turkish](tr)
 - [Ukrainian](uk)
