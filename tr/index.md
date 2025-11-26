@@ -21,7 +21,7 @@ Hem Windows hem de Linux platformları için Steam, itch.io ve klasik sürümler
 - Oyunu çalıştır.
 - Oyunun daha yeni bir sürümü için çeviriyi veya yapılandırmayı güncellemek isterseniz, (oyun kapalıyken) yükleyiciyi tekrar çalıştırın ve ardından ‘Güncelle’ butonuna basın.
 
-Eğer yükleyici ile ilgili bazı sorunlar yaşıyorsanız (örneğin Windows 7 veya 8 kullanıyorsanız), onun yerine [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}’ı kullanabilirsiniz. 
+Eğer yükleyici ile ilgili bazı sorunlar yaşıyorsanız (örneğin Windows 7 veya 8 kullanıyorsanız), onun yerine [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}’ı kullanabilirsiniz.
 
 ![screenshot](screenshot.png){:.centered}
 
