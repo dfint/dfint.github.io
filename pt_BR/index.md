@@ -12,7 +12,8 @@ downloads:
     linux_description: "Versão para Linux:"
 ---
 
-O instalador de localização suporta a versão do DF 50.10 e mais recentes, incluindo as versões 51 e 52.
+O instalador de localização é compatível com a versão do DF 50.10 e mais recentes, incluindo as versões 51, 52 e 53.
+Tem suporte às versões do Steam, itch.io e a versão clássica, tanto para as plataformas Windows quanto Linux.
 
 Breves instruções de como instalar a tradução:
 
