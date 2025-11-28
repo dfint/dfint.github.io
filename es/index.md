@@ -10,7 +10,8 @@ downloads:
     linux_description: "Versión de Linux:"
 ---
 
-El instalador de traducción es compatible con versiones de DF 50.10 en adelante, incluídas versiones 51 y 52.
+El instalador de traducción es compatible con la versión DF 50.10 y posteriores, incluyendo las versiones 51, 52 y 53.
+Es compatible con las versiones de steam, itch.io y la clásica, tanto para Windows como para Linux.
 
 Instrucciones breves para instalar la traducción:
 
