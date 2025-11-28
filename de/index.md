@@ -10,7 +10,8 @@ downloads:
     linux_description: "Linux-Version:"
 ---
 
-Der Lokalisierungs-Installer unterstützt Dwarf Fortress ab Version 50.10 sowie alle neueren Versionen (einschließlich 51.x und 52.x).
+Der Lokalisierungs-Installer unterstützt die Version DF 50.10 und neuere, einschließlich der Versionen 51, 52 und 53.
+Unterstützt werden die Versionen für Steam, itch.io und die klassische Version, und zwar für beide Plattformen, Windows und Linux.
 
 Kurzanleitung zur Installation der Übersetzung:
 
