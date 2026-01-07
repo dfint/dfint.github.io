@@ -10,7 +10,7 @@ downloads:
     linux_description: "Wersja dla systemu Linux:"
 ---
 
-Instalator lokalizacji obsługuje wersję DF 50.10 i nowsze, w tym 51 i 52 wersji.
+Instalator lokalizacji obsługuje wersję DF 50.10 i nowsze, w tym wersje 51, 52 i 53. Obsługiwane są wersje Steam, itch.io, klasyczne dla platform Windows i Linux.
 
 Krótka instrukcja jak zainstalować tłumaczenie:
 
