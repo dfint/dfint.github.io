@@ -12,3 +12,4 @@ lang: "en-US"
 - [Spanish](spanish)
 - [Turkish](tr)
 - [Ukrainian](uk)
+- [Vietnamese](vi)
