@@ -1,5 +1,5 @@
 ---
-title: "Dịch trò chơi Dwarf Fortress sang 'ngôn ngữ của bạn'"
+title: "Việt hóa trò chơi Dwarf Fortress sang Tiếng Việt"
 description: "Bản dịch dành cho phiên bản 50.* và các phiên bản mới hơn của Dwarf Fortress"
 lang: "vi" # replace it with your language code
 permalink: /vi/
