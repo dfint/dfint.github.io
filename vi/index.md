@@ -3,7 +3,7 @@ title: "Việt hóa trò chơi Dwarf Fortress sang Tiếng Việt"
 description: "Bản dịch dành cho phiên bản 50.* và các phiên bản mới hơn của Dwarf Fortress"
 lang: "vi" # replace it with your language code
 permalink: /vi/
-additional_links: false
+additional_links: true
 layout: download_page
 downloads:
     windows_description: "Phiên bản dành cho Windows:"
