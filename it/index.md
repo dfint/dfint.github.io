@@ -3,14 +3,14 @@ title: "Traduzione di Dwarf Fortress in italiano"
 description: "Localizzazione per 50.* e versioni più recenti di Dwarf Fortress"
 lang: "it" # replace it with your language code
 permalink: /it/
-additional_links: false
 layout: download_page
 downloads:
     windows_description: "Versione Windows:"
     linux_description: "Versione Linux:"
 ---
 
-L'installer di localizzazione supporta le versioni di DF dalla 50.10 in poi, incluse le versioni 51 e 52.
+Il programma di installazione della localizzazione supporta le versioni di DF 50.10 e successive, comprese le versioni 51, 52 e 53.
+Sono supportate le versioni Steam, itch.io e classiche per le piattaforme Windows e Linux.
 
 Brevi istruzioni su come installare la traduzione:
 
@@ -29,4 +29,4 @@ Se riscontri problemi con il programma d'installazione (ad esempio se utilizzi W
 - [Progetto di traduzione su transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - qui è possibile partecipare alla traduzione del gioco nella propria lingua
 - [Il progetto su github](https://github.com/dfint)
 - [Il sito ufficiale di Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
+{% if site.data.additional_links_enabled[page.lang] %}{% include_relative _additional_links.md %}{% endif %}
