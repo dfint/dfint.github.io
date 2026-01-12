@@ -17,13 +17,16 @@ jobs:
 
     - name: Install transifex client
       run: |
+        mkdir tx
+        cd tx
         curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+        cd ..
 
     - name: Pull translations
       env:
         TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
-        ./tx pull --all --use-git-timestamps --minimum-perc 100
+        ./tx/tx pull --all --use-git-timestamps --minimum-perc 100
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v8
