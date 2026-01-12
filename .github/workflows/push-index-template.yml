@@ -16,10 +16,13 @@ jobs:
 
       - name: Install transifex client
         run: |
+          mkdir tx
+          cd tx
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+          cd ..
 
       - name: Push source language
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-          ./tx push --source
+          ./tx/tx push --source
