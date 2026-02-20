@@ -30,7 +30,7 @@ permalink: /russian/archive
 
 ### Cборка DF 0.40.24 под Windows
 
-- Тестовая сборка на основе урезанного DF 0.40.24 Starter Pack r3
+- [Тестовая сборка на основе урезанного DF 0.40.24 Starter Pack r3](https://github.com/dfint/dfrus-downloads-archive/releases/download/0.0.1/Dwarf_Fortress_40_24_Starter_Pack_r3_rus.7z)
   - Практически полный перевод DF 0.40.24
   - Частичное исправление грамматики при помощи скрипта [changetext.py](https://github.com/dfint/changetextpy_script)
   - Решены две основные проблемы: вывод кириллицы на экране "Thoughts and prefences" (и других) и возможность поиска в менеджере.
