@@ -1,3 +1,4 @@
 - [boosty](https://boosty.to/dfrus?utm_source=dfint_ru_landing&utm_medium=organic&utm_campaign=none) - поддержать проект локализации донатом или регулярной платной подпиской
+- [Скачать с www.playground.ru](https://www.playground.ru/dwarf_fortress/file/dwarf_fortress_rusifikator_dlya_versij_50_10_i_novee_0_6_0-1787944) - резервная страница, на случай если скачивание на этой странице не работает
 - [Группа ВК, посвященная русификации DF и утилит](https://vk.com/dfrus)
 - [Архив новостей (о переводе DF более ранних версий)](archive)
