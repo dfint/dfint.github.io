@@ -11,6 +11,7 @@ lang: "en-US"
 - [Portuguese (Brazil)](pt-br)
 - [Russian](russian)
 - [Spanish](spanish)
+- [Swedish](sv)
 - [Turkish](tr)
 - [Ukrainian](uk)
 - [Vietnamese](vi)
